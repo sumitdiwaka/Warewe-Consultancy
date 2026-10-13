@@ -2,8 +2,8 @@
 
 A Figma-to-code implementation of the **Realtor360** real-estate CRM, built with React and TypeScript. It covers the Dashboard plus ten list screens, with shared layout components for the navbar, filters, tables and pagination.
 
-- **Live demo:** `<add your Vercel URL here>`
-- **Repository:** `<add your GitHub URL here>`
+- **Live demo:** `https://warewe-consultancy-one.vercel.app/`
+- **Repository:** `https://github.com/sumitdiwaka/Warewe-Consultancy`
 - **Design:** Realtor360 Figma file (file key `w3ZJn4OeQVLudyC0jOzOYW`)
 
 ## Tech stack
