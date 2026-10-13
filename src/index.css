@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-page font-sans text-ink antialiased; margin: 0; }
+input[type='checkbox'] { accent-color: #D4AF37; }
+.card { @apply bg-white rounded-[20px] shadow-[2px_4px_4px_rgba(0,0,0,0.1)]; }
+.btn-gold { @apply bg-gold text-white text-[12px] font-medium rounded px-3 py-1.5 hover:brightness-95; }
+.scrollbar-none { scrollbar-width: none; }
+.scrollbar-none::-webkit-scrollbar { display: none; }
